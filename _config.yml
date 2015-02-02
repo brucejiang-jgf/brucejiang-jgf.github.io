@@ -21,7 +21,7 @@ rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: http://xubin-dragon.com/public/img/head.jpg 
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
+favicon: http://xubin-dragon.com/public/img/head.ico 
 
 # google analytics 设置
 ga:
