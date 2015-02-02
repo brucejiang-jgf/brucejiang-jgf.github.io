@@ -2,7 +2,7 @@
 layout: post
 title: abing-pvm-kernel design
 category: abing-pvm 
-tags: [workflow, abing-bpm, abing-pvm]
+tags: [workflow, workflow-pvm]
 keywords: workflow,bpm,pvm
 description: 
 ---
