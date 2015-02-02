@@ -1,7 +1,7 @@
 ---
 layout: post
 title: abing-pmc 工作流内核模块设计 
-category: abing-pvm 工作流虚拟机
+category: abing-pvm 
 tags: [workflow, bpm, pvm]
 keywords: workflow,bpm,pvm
 description: 
