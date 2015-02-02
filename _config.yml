@@ -6,15 +6,15 @@ kramdown:
   input: GFM
 
 # 作者信息
-author: 
-  name: 蒋关富 
-  email: brucejiang.jgf@gmail.com; xile.jgf@taobao.com
-  link: http://xubin-dragon.com
-  weibo: 
-  github: http://github.com/brucejiang-jgf
+author: brucejiang.jgf 
+name: 蒋关富 
+email: brucejiang.jgf@gmail.com; xile.jgf@taobao.com
+link: http://xubin-dragon.com
+weibo: 
+github: http://github.com/brucejiang-jgf
 
 # 站点信息
-title: xubin-dragon的博客 
+title: xubin-dragon's bolg 
 description: 纪念我的小屁孩：旭彬胖子：）
 url: http://xubin-dragon.com
 rss_url: /pages/atom.xml
@@ -33,17 +33,17 @@ disqus:
 shortname: xubin-dragon-zh
 
 # 主题设置，自动激活某个标签
-active: 技术
+active: abing-pvm 
 
 # 首页除了最新文章外显示分类
 cates: 
-  - Python
-  - OpenStack
+  - abing-pvm 
+  - jvm 
 
 # 中文本地化
 locals:
-  tags: 标签
-  about: 关于
-  newest: 最新文章
-  archive: 归档
-  content: 目录
+  tags: Tags 
+  about: About 
+  newest: Newest 
+  archive: Archive 
+  content: Content 
