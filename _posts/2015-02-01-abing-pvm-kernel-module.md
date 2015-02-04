@@ -7,7 +7,7 @@ keywords: workflow,bpm,pvm
 description: 
 ---
 
-> 工作流架构采用分层体系设计， 鉴于工作流的业务复杂性、调度固定性（调度模式基本固定几种模式）； 因此提出工作流内核层（该层包括两大模块：abing-pvm-kernel/abing-pvm-framework）, abing-pvm-kernel主要抽象了工作流的节点调度模型，完成抽象的节点调度。 
+> 工作流架构采用分层体系设计: abing-bpm layer --> abing-pvm layer因此提出工作流内核层（该层包括两大模块：abing-pvm-kernel/abing-pvm-framework）, abing-pvm-kernel主要抽象了工作流的节点调度模型，完成抽象的节点调度。 
 
 
 ## abing-pvm-kernel description 
