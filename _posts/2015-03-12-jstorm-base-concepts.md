@@ -10,14 +10,14 @@ description:
 ## Topology
     拓扑图
     跨语言（使用thrift）
-    ![](/public/img/topology.png)
+    ![](/public/img/topology.jpg)
 
 ## Spout
-    ![](/public/img/spout_bolt.png)
+    ![](/public/img/spout_bolt.jpg)
     输入流
 
 ## Bolt
-    ![](/public/img/spout_bolt.png)
+    ![](/public/img/spout_bolt.jpg)
     输入管道
 
 ## Tuple
